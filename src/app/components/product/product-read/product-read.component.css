@@ -1,0 +1,24 @@
+table{
+    width: 100%;
+}
+
+.edit{
+    margin-right: 15px;
+}
+
+.edit > i{
+    color: #d9cd26;
+}
+
+.edit > i:hover{
+    color: darkgreen;
+}
+
+.delete > i{
+    color: #e35e6b;
+}
+
+.delete > i:hover{
+    color: darkgreen;
+}
+
